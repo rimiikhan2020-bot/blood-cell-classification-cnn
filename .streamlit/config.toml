@@ -1,1 +1,7 @@
-Add theme config
+[theme]
+base = "dark"
+primaryColor = "#C9A227"
+backgroundColor = "#14161C"
+secondaryBackgroundColor = "#1C202A"
+textColor = "#ECE8DE"
+font = "sans serif"
